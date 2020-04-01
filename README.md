@@ -1,3 +1,1 @@
-# react-validation
-
-React Validation
+# Validation for React
